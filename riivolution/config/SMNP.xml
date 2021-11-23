@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<riivolution version="2">
+  <option id="newercore" default="1"/>
+  <option id="darkmoon" default="1"/>
+  <option id="halluigi" default="2"/>
+  <option id="haltoad" default="1"/>
+  <option id="halwario" default="1"/>
+  <option id="halhammer" default="2"/>
+  <option id="jumpman" default="2"/>
+  <option id="alpinedream" default="1"/>
+  <option id="greenblue" default="4"/>
+</riivolution>
