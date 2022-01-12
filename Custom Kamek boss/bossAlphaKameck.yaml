@@ -1,0 +1,16 @@
+---
+#Replaces Actor 516 AC_OBJ_CLEAR_BLOCK (Sprite 218)
+
+
+source_files: [../src/bossAlphaKamek.cpp]
+hooks:
+  - name: NewKameckBuild
+    type: add_func_pointer
+    src_addr_pal: 0x80972168
+    target_func: 'daNewKameck::build()'
+
+  - name: NewKameckSpriteFileInfo
+    type: add_func_pointer
+    src_addr_pal: 0x8031aeb4
+    target_func: 'AKarcNameList'
+    # 0x8031AB4C + sprite num * 0x4 == offset
