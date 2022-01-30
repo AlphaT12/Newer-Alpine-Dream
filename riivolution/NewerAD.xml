@@ -9,14 +9,6 @@
 			<option name="Game" id="alpinedream" default="1">
 				<choice name="Enabled"><patch id="alpinedream"/></choice>
 			</option>
-			<option name="Toad Color" id="greenblue" default="1">
-				<choice name="Yellow/Blue"><patch id="yellowblue"/></choice>
-				<choice name="Green/Purple"><patch id="greenpurple"/></choice>
-				<choice name="Yellow/Purple"><patch id="yellowpurple"/></choice>
-				<choice name="Green/Blue"><patch id="greenblue"/></choice>
-				<choice name="Yellow/Green"><patch id="yellowgreen"/></choice>
-				<choice name="Purple/Blue"><patch id="purpleblue"/></choice>
-			</option>
 		</section>
 	</options>
 	<patch id="alpinedream">
@@ -99,25 +91,5 @@
 		
 		<!-- Common -->
 		<memory offset="0x80001800" valuefile="Loader.bin" />
-	</patch>
-	
-		<!-- Color -->
-	<patch id="yellowblue">
-        	<folder external="NewColor/YellowBlue" disc="/Object" create="true" />
-	</patch>
-	<patch id="greenpurple">
-        	<folder external="NewColor/GreenPurple" disc="/Object" create="true" />
-	</patch>
-	<patch id="yellowpurple">
-        	<folder external="NewColor/YellowPurple" disc="/Object" create="true" />
-	</patch>
-	<patch id="greenblue">
-        	<folder external="NewColor/GreenBlue" disc="/Object" create="true" />
-	</patch>
-	<patch id="yellowgreen">
-        	<folder external="NewColor/YellowGreen" disc="/Object" create="true" />
-	</patch>
-	<patch id="purpleblue">
-        	<folder external="NewColor/PurpleBlue" disc="/Object" create="true" />
 	</patch>
 </wiidisc>
