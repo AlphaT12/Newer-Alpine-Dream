@@ -8,10 +8,10 @@ NewerAD Version 1.0.0:
 
 
 Newer Alpine Dream credit :
-Idea : ALPHA_T
-History : ALPHA_T
-General Development : ALPHA_T
-Music Slelection : ALPHA_T
-Miscellaneous : ALPHA_T
-Tester : ALPHA_T and Jaydon
+Idea : ALPHA_T;
+History : ALPHA_T;
+General Development : ALPHA_T;
+Music Slelection : ALPHA_T;
+Miscellaneous : ALPHA_T;
+Tester : ALPHA_T and Jaydon;
 
