@@ -12,7 +12,7 @@ my first RomHack NewerSMBW
 - Idea : ALPHA_T;
 - History : ALPHA_T;
 - General Development : ALPHA_T;
-- Music Slelection : ALPHA_T;
+- Music Selection : ALPHA_T;
 - Miscellaneous : ALPHA_T;
 - Tester : ALPHA_T and Jaydon;
 
