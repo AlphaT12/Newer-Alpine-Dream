@@ -5,7 +5,7 @@ my first RomHack NewerSMBW
 
 
 ## NewerAD Version 1.0.0 (current version):
-/!\ : there is a bug (which I can't solve and even the other Moddeur) that puts an error message on Dolphin (or a spit on Wii) when all the levels are accessible and you finish the last level!
+- 11 levels with 8 classic levels, 1 tower level, 1 castle level, 1 secret hard level
 
 
 ## Newer Alpine Dream credit :
