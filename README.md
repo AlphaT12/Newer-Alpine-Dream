@@ -1,6 +1,5 @@
 # Newer-Alpine-Dream
-![logoNewerADcomplet](https://user-images.githubusercontent.com/94932316/152682718-f9fa4e5e-d696-400d-9525-b24316f4d9fc.png)
-
+![logoNewerADcomplet](https://user-images.githubusercontent.com/94932316/152683060-8fbf776f-3ec6-48ba-aa45-56d9911ecad4.png)
 my first RomHack NewerSMBW
 
 
