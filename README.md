@@ -1,2 +1,2 @@
 # Newer-Alpine-Dream
-my first RomHack SMBW
+my first RomHack NewerSMBW
