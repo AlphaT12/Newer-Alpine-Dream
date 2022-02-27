@@ -17,7 +17,7 @@ my first RomHack NewerSMBW
 - Tester : ALPHA_T and Jaydon;
 
 
-## thank youto :
+## thank you to :
 - Nintendo (they are no longer presented)
 - Newer Team (the creators of NewerSMBW)
 - RedStoneMatt (who made me discover the joy of making NewSMBW mods)
