@@ -17,6 +17,12 @@ my first RomHack NewerSMBW
 - Tester : ALPHA_T and Jaydon;
 
 
+## thank youto :
+- Nintendo (they are no longer presented)
+- Newer Team (the creators of NewerSMBW)
+- RedStoneMatt (who made me discover the joy of making NewSMBW mods)
+- Horizon's members on discord (simpatico people who like to help beginners)
+
 
 ## Soon (NewerAD Version 1.0.1 :
 - bug fix 
