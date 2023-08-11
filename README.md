@@ -24,5 +24,11 @@ my first RomHack NewerSMBW
 - Horizon's members on discord (simpatico people who like to help beginners)
 
 
-## Soon (NewerAD Version 1.0.1 :
-- bug fix 
+## Soon (NewerAD Version 2.0.0 :
+- bug fix
+- 1 new World (+ 1 mid-world) => + 17 level
+- revamp of levels
+- new custom music
+- new bosses
+- Worlds map 3D
+- and more
